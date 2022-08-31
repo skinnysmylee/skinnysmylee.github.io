@@ -1,1 +1,6 @@
-remote_theme: hacker
+title: Skinnysmylee
+description: Skinnysmylee workshop 
+repository: skinnysmylee/skinnysmylee.github.io
+author:        smirnov ilia
+url:           "https://skinnysmylee.github.io/"
+theme: hacker
