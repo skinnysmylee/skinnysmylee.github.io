@@ -1,1 +1,1 @@
-# [Skinnysmylee]([https://groupdevinst.github.io/](https://skinnysmylee.github.io/) 
+# [Skinnysmylee](https://skinnysmylee.github.io/)
