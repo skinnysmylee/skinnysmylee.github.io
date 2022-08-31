@@ -1,1 +1,1 @@
-# skinnysmylee.github.io
+# Skinnysmylee
